@@ -2,9 +2,9 @@
 
 Thanks for visiting me virtually (っಠ‿ಠ)っ. Few lines about me (☆▽☆)
 
-- 👍   I like working with data. Cleaning, analysing, and finding pattern in the data
+- 👍   I like working with the data. Cleaning, analysing, and finding pattern in the data
 
-- 🔭   I’m currently working on ML model to predict used car price over the entire USA and I'll deploying it using CI/CD pipeline on CircleCI
+- 🔭   I’m currently working on the ML model to predict used car price over the entire USA and I'll deploying it using CI/CD pipeline on CircleCI
 
 - 💼   I'm working as a Data Science Anayst at J.D. Power where I'm working on building products utilizing ML, DL and NLP tools
 
