@@ -16,3 +16,5 @@ Thanks for visiting me virtually (っಠ‿ಠ)っ. Few lines about me (☆▽�
 
 
 When not on computer -- I like to run, hike, play sports including Badminton, Tennis, Cricket, Ping Pong and a lot more and explore restaurants. This is pre COVID-19. Right now, I'm on the workstation all the time 💻 
+
+[![Tejash's github stats](https://github-readme-stats.vercel.app/api?username=Tejash-Shah&count_private=true&show_icons=true&theme=radical)](https://github.com/Tejash-Shah/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejash-Shah&layout=compact&theme=radical)](https://github.com/Tejash-Shah/github-readme-stats)
